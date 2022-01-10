@@ -14,7 +14,7 @@
 ![GitHub](https://img.shields.io/badge/github-1a202b.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [![Status](https://github-readme-stats.vercel.app/api?username=kennedfer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark)
-\
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ba4zphpkwqykc7zl6t5ox6o5fy&unique={true|1|on|yes})
 
