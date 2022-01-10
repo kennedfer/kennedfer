@@ -13,9 +13,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1a202b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-1a202b.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 [![Minecraft](https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact&theme=github_dark)](https://github.com/yushi1007)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ba4zphpkwqykc7zl6t5ox6o5fy&unique={true|1|on|yes})
 
