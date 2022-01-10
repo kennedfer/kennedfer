@@ -1,7 +1,7 @@
 ### Hi Folks, I'm Kenned Ferreira 👋
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kennedfer.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-![C](https://img.shields.io/badge/c-0c0f14.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-1a202b.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
