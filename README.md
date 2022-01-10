@@ -17,7 +17,7 @@
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedfer&layout=compact&theme=github_dark&hide_border=true)
 \
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennedfer&layout=compact&theme=github_dark&hide_border=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennedfer)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ba4zphpkwqykc7zl6t5ox6o5fy&unique={true|1|on|yes})
 
