@@ -19,4 +19,4 @@
 \
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennedfer&theme=github_dark&hide_border=true)
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ba4zphpkwqykc7zl6t5ox6o5fy&cover_image=true&theme=natemoo-re&bar_color=aeff00&bar_color_cover=false)]]
+![https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ba4zphpkwqykc7zl6t5ox6o5fy&cover_image=true&theme=natemoo-re&bar_color=aeff00&bar_color_cover=false)]]
