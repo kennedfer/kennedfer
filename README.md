@@ -15,7 +15,7 @@
 
 [![Status](https://github-readme-stats.vercel.app/api?username=kennedfer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark)
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedfer&layout=compact&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedfer&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ba4zphpkwqykc7zl6t5ox6o5fy&unique={true|1|on|yes})
 
