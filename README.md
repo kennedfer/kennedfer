@@ -3,9 +3,8 @@ Hi there, I'm Kenned Ferreira 👋
 </h3>
 
 <h2 align="center">
-I'm a Programer 💻, and _Designer 🎨!
+I'm a Programer 💻, and Designer 🎨!
 </h2> 
-# ed_21_
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kennedfer.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 \
