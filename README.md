@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedfer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ba4zphpkwqykc7zl6t5ox6o5fy)
 
 <!--
