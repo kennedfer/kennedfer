@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/c++-1a202b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-1a202b.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-1a202b.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-1a202b?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-1a202b?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-1a202b.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1a202b.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-1a202b.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
