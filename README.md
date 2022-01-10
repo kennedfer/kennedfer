@@ -10,6 +10,8 @@ I'm a Programer 💻, and Designer 🎨!
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 </br>
 
+![Contacs]
+
 ![C](https://img.shields.io/badge/c-1a202b.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-1a202b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-1a202b.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
