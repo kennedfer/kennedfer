@@ -14,7 +14,7 @@
 ![GitHub](https://img.shields.io/badge/github-1a202b.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
 
 
 
