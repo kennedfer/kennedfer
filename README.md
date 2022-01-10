@@ -1,5 +1,9 @@
+<h3 align="center">
+Hi there, I'm Kenned Ferreira 👋
+</h3>
+
 <h2 align="center">
-I'm a Programer 💻, and _Designer_ 🎨!
+I'm a Programer 💻, and _Designer 🎨!
 </h2> 
 # ed_21_
 
