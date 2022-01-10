@@ -6,7 +6,7 @@ Hi there, I'm Kenned Ferreira 👋
 I'm a Programer 💻, and Designer 🎨!
 </h2> 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kennedfer.visitor-badge&left_color=#1a202b&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=kennedfer.visitor-badge&left_color=#1a202b&right_color=white&left_text=Hello%20Visitors)
 \
 ![C](https://img.shields.io/badge/c-1a202b.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-1a202b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
