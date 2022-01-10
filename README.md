@@ -12,5 +12,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/heinz-martin/
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ba4zphpkwqykc7zl6t5ox6o5fy&unique={true|1|on|yes})
 
