@@ -13,9 +13,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1a202b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-1a202b.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Status](https://github-readme-stats.vercel.app/api?username=kennedfer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark)
+![Status](https://github-readme-stats.vercel.app/api?username=kennedfer&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark)
 \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedfer&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedfer&layout=compact&theme=github_dark&hide_border=true)
 \
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
