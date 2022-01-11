@@ -1,9 +1,9 @@
 <h3 align="center">
-Hi there, I'm Kenned Ferreira 👋
+Hi folks, I'm Kenned Ferreira 👋
 </h3>
 
 <h2 align="center">
-I'm a Programer 💻, and Designer 🎨!
+I'm a Student and Programmer 💻
 </h2> 
 
 
@@ -21,6 +21,8 @@ Skills and Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-1a202b.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1a202b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-1a202b.svg?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-1a202b?style=for-the-badge&logo=unity&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3 align="center">
 Github Stats
