@@ -28,7 +28,7 @@ Skills and Tools
 Github Stats
 </h3> 
 
-<button>
+<button type="button">
   mines
 </button>
 
