@@ -28,7 +28,7 @@ Skills and Tools
 Github Stats
 </h3> 
 
-[<img src="https://img.shields.io/badge/LinkedIn-1a202b.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](www.linkedin.com/in/kennedfer)
+[<img src="https://img.shields.io/badge/LinkedIn-1a202b.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/kennedfer/)
 
 ![Status](https://github-readme-stats.vercel.app/api?username=kennedfer&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark)
 \
