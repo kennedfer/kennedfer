@@ -28,9 +28,7 @@ Skills and Tools
 Github Stats
 </h3> 
 
-<button type="button">
-  mines
-</button>
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 ![Status](https://github-readme-stats.vercel.app/api?username=kennedfer&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark)
 \
