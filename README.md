@@ -11,18 +11,13 @@ I'm a Student and Programmer 💻
 Skills and Tools
 </h3> 
   
-![C](https://img.shields.io/badge/c-1a202b.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-1a202b.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-1a202b.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-1a202b?style=for-the-badge&logo=unity&logoColor=white)
 ![Java](https://img.shields.io/badge/java-1a202b.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-1a202b?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-1a202b.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1a202b.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-1a202b.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1a202b.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-1a202b.svg?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-1a202b?style=for-the-badge&logo=unity&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3 align="center">
 Github Stats
