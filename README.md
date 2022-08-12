@@ -7,9 +7,11 @@ I'm a CS student and I'm glad you found me :)
 //I took a break from work
 
 Age: 18
-Location: São Luís, BR
-Languages: C#, Java, Python
-Learning: C, JS
+Location: São Luís, BR //
+Languages: C#, Java, Python //For Desktop Apps i use Java, Games C# e Python for simples (and fun) things
+GameEngines: Unity, Godot //I'm sooooo better at Unity
+Learning: C, JS //I got C at university and took the FCC JS course
+Libraries: 
 Discord: "kennedfer#5789"
 
 
