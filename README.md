@@ -1,4 +1,5 @@
 ```csharp
+> Hello folks my name is "Kenned Ferreira"
 > I'm a CS student and I'm glad you found me :)
 //I took a break from work
 
@@ -10,7 +11,7 @@ Location: São Luís, BR //a little imprecise lol
 Languages: C#, Java, Python //For Desktop Apps i use Java, Games C# e Python for simples (and fun) things
 GameEngines: Unity, Godot //I'm sooooo better at Unity
 Learning: C, JS //I got C at university and took the FCC JS course
-Libraries: P5.js (and Processing4), Pixi.js, Pygame, Bulma //firsts are for rendering graphics
+Libraries: P5.js (and Processing4), Pixi.js, Pygame, Bulma.io //firsts are for rendering graphics
 Discord: "kennedfer#5789"
 
 
