@@ -6,7 +6,7 @@
 ```
 
 ```csharp
-Age: 18
+Age: 19
 Location: São Luís, BR //a little imprecise lol
 Languages: C#, Java, Python //For Desktop Apps i use Java, Games C# e Python for simples (and fun) things
 GameEngines: Unity, Godot //I'm sooooo better at Unity
