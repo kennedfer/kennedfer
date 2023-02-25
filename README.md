@@ -1,5 +1,5 @@
 ```csharp
-> Hello folks my name is "Kenned Ferreira"
+> Oi pessoal, me chamo Kenned
 > I'm a CS student and I'm glad you found me :)
 //I took a break from work
 
