@@ -1,6 +1,6 @@
 ```csharp
 Oi pessoal, me chamo Kenned
-# Estou na trilha para ser Fullstack!
+# Estou na trilha Fullstack!
 
 ```
 
