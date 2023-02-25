@@ -1,7 +1,6 @@
 ```csharp
 > Oi pessoal, me chamo Kenned
-> I'm a CS student and I'm glad you found me :)
-//I took a break from work
+> Estou na trilha para ser Fullstack!
 
 ```
 
