@@ -7,7 +7,7 @@ Oi pessoal, me chamo Kenned
 ```csharp
 minhasInfos = {
   idade: 19,
-  ondeMoro: "Godofredo-viana MA",
+  ondeMoro: "Carutapera MA",
   linguagens: ["javascript", "Java", "C#", "Python"], // Já usei bastante Java para desktop e C# eu uso com Unity
   gameEngines: ["Unity", "Godot"], // Unity é meu preferido
   frameWorks: ["ReactJS", "ReactNative", "Nextjs", "Node.js", "bootstrap", "p5.js"],
@@ -27,7 +27,9 @@ freeCodeCamp (tanto frontend quando backend, além do de estrutura de dados),
 comecei a desenvolver uns projetos para portifolio e claro, tentando
 conseguir um emprego ou mesmo "freelas"
 
-ps1: costumava usar "pygame" para desenhar as coisas com python e,
+ps1: tenho experiência também em Android com Java e desenvolvimento de jogos 
+
+ps2: costumava usar "pygame" para desenhar as coisas com python e,
 apesar de ser possível rodar python online sem muito esforço, o setup
 do pygame nunca funcionava bem
 */
