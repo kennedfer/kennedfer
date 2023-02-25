@@ -1,28 +1,36 @@
-```
-> Oi pessoal, me chamo Kenned
-> Estou na trilha para ser Fullstack!
+```csharp
+Oi pessoal, me chamo Kenned
+# Estou na trilha para ser Fullstack!
 
 ```
 
-```js
-{
-  idade: 19
-  Location: São Luís, BR //a little imprecise lol
-  Languages: C#, Java, Python //For Desktop Apps i use Java, Games C# e Python for simples (and fun) things
-  GameEngines: Unity, Godot //I'm sooooo better at Unity
-  Learning: C, JS //I got C at university and took the FCC JS course
-  Libraries: P5.js (and Processing4), Pixi.js, Pygame, Bulma.io //firsts are for rendering graphics and bulma is a framework
-  Discord: "kennedfer#5789" //maybe too late to answer...
+```csharp
+minhasInfos = {
+  idade: 19,
+  ondeMoro: "Godofredo-viana MA",
+  linguagens: ["javascript", "Java", "C#", "Python"], // Já usei bastante Java para desktop e C# eu uso com Unity
+  gameEngines: ["Unity", "Godot"], // Unity é meu preferido
+  frameWorks: ["ReactJS", "ReactNative", "Nextjs", "Node.js", "bootstrap", "p5.js"],
+  discord: "kennedfer#5789"
 }
 
 
 /*
-A bit of me:
-I'm from the interior of Maranhão, BR I started to program in Java, long before entering the university,
-with the book Deitel - Java: How to Program and from there I started to develop games in Unity
-(because C# is similar to Java) and, Once at university, I had my first contact with Python in the area of ​​algorithms.
-I like games, movies and sports :)
+Um pouco sobre mim:
+Comecei minha jornada em Java com o livro da Deitel "Java: como programar"
+Usei Java por bastante tempo mas, no momento, estou focado em web e js.
+Tive python na faculdade mas, apesar de usar para coisas simples por um tempo,
+preferi migrar para o javascript pela facilidade que o p5.js me dava
+sendo online e, por isso, me possibilitando usar em qualquer lugar
+apartir disso eu passei a estudar Node.js e, depois de fazer os cursos do
+freeCodeCamp (tanto frontend quando backend, além do de estrutura de dados),
+comecei a desenvolver uns projetos para portifolio e claro, tentando
+conseguir um emprego ou mesmo "freelas"
+
+ps1: costumava usar "pygame" para desenhar as coisas com python e,
+apesar de ser possível rodar python online sem muito esforço, o setup
+do pygame nunca funcionava bem
 */
 
-Thanks: until.later :)
+Até.
 ```
