@@ -10,7 +10,7 @@ minhasInfos = {
   ondeMoro: "Carutapera MA",
   linguagens: ["javascript", "Java", "C#", "Python"], // Já usei bastante Java para desktop e C# eu uso com Unity
   gameEngines: ["Unity", "Godot"], // Unity é meu preferido
-  frameWorks: ["ReactJS", "ReactNative", "Nextjs", "Node.js", "bootstrap", "p5.js"],
+  frameworks: ["ReactJS", "ReactNative", "Nextjs", "Node.js", "bootstrap", "p5.js"],
   discord: "kennedfer#5789"
 }
 
