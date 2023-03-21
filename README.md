@@ -5,7 +5,7 @@ Oi pessoal, me chamo Kenned
 ```
 
 ```csharp
-minhasInfos = {
+let minhasInfos = {
   idade: 19,
   ondeMoro: "Carutapera MA",
   linguagens: ["javascript", "Java", "C#", "Python"], // Já usei bastante Java para desktop e C# eu uso com Unity
