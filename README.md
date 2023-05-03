@@ -3,7 +3,7 @@ Oi pessoal, me chamo Kenned
 # Estou na trilha Fullstack!
 
 ```
-[![calica](https://gist.github.com/apipemc/6047552)](https://simplified-git-stats-o05p6r3pa-kennedfer.vercel.app/)
+[![calica](https://gist.github.com/apipemc/6047552)](http://localhost:3000/)
 
 ```csharp
 let minhasInfos = {
