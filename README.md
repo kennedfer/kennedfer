@@ -3,6 +3,7 @@ Oi pessoal, me chamo Kenned
 # Estou na trilha Fullstack!
 
 ```
+[![calica](https://gist.github.com/apipemc/6047552)](https://gist.github.com/apipemc/6047552)
 
 ```csharp
 let minhasInfos = {
