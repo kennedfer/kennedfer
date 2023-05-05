@@ -5,6 +5,11 @@ Oi pessoal, me chamo Kenned
 ```
 ![calica](https://simplified-git-stats.onrender.com)
 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra"
+/>
+  
 ```csharp
 let minhasInfos = {
   idade: 19,
