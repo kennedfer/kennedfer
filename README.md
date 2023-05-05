@@ -4,7 +4,7 @@ Oi pessoal, me chamo Kenned
 
 ```
 ![calica](https://simplified-git-stats.onrender.com)
-<img src="https://simplified-git-stats.onrender.com">
+<img src="https://simplified-git-stats.onrender.com"/>
   
 ```csharp
 let minhasInfos = {
