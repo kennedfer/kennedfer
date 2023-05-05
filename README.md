@@ -3,9 +3,6 @@ Oi pessoal, me chamo Kenned
 # Estou na trilha Fullstack!
 
 ```
-![calica](https://simplified-git-stats.onrender.com)
-<img src="https://simplified-git-stats.onrender.com"/>
-  
 ```csharp
 let minhasInfos = {
   idade: 19,
