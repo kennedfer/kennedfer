@@ -3,7 +3,7 @@ Oi pessoal, me chamo Kenned
 # Estou na trilha Fullstack!
 
 ```
-[![calica](aiaiaia)]([http://localhost:3000/](https://simplified-git-stats.onrender.com))
+![calica](https://simplified-git-stats.onrender.com)
 
 ```csharp
 let minhasInfos = {
