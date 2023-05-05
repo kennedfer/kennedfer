@@ -3,7 +3,6 @@ Oi pessoal, me chamo Kenned
 # Estou na trilha Fullstack!
 
 ```
-![s](https://simplified-git-stats.onrender.com/)
 ![calica](https://simplified-git-stats.onrender.com/)
 <img src="https://simplified-git-stats.onrender.com">
   
