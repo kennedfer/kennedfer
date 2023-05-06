@@ -4,6 +4,7 @@ Oi pessoal, me chamo Kenned
 
 ```
 <img src="https://simplified-git-stats.onrender.com/?kill_cache=0" />
+<img src="https://simplified-git-stats.onrender.com/?kill_cache=0" />
 
 ```csharp
 let minhasInfos = {
