@@ -3,7 +3,7 @@ Oi pessoal, me chamo Kenned
 # Estou na trilha Fullstack!
 
 ```
-<img src="https://simplified-git-stats.onrender.com/?service=github">
+<img src="https://simplified-git-stats.onrender.com?service=github">
 
 ```csharp
 let minhasInfos = {
