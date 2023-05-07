@@ -3,7 +3,6 @@ Oi pessoal, me chamo Kenned
 # Estou na trilha Fullstack!
 
 ```
-<img src="https://simplified-git-stats.onrender.com?service=github">
 
 ```csharp
 let minhasInfos = {
@@ -15,8 +14,10 @@ let minhasInfos = {
   backendFrameworks: ["Nextjs", "Express", "Fastify"],
   discord: "kennedfer#5789"
 }
+```
+![!](https://simplified-git-stats.onrender.com?service=github?)
 
-
+```csharp
 /*
 Um pouco sobre mim:
 Comecei minha jornada em Java com o livro da Deitel "Java: como programar"
