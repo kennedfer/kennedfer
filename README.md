@@ -15,7 +15,7 @@ let minhasInfos = {
   discord: "kennedfer#5789"
 }
 ```
-![!](https://simplified-git-stats.onrender.com?service=github?)
+![!](https://simplified-git-stats.onrender.com?)
 
 ```csharp
 /*
