@@ -1,6 +1,5 @@
 ```
-Olá pessoal, me chamo Kenned Ferreira;
-Desenvolvedor apaixonado por programação web e JavaScript, com experiência em Java, Android e criação de jogos.
+console.log("Olá Pessoal");
 ```
 
 ```csharp
