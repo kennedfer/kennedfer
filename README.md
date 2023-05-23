@@ -1,5 +1,5 @@
-```
-console.log("Olá Pessoal");
+```js
+console.log("Iae Pessoal");
 ```
 
 ```csharp
