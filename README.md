@@ -6,7 +6,7 @@ console.log("Iae Pessoal");
 let minhasInfos = {
   idade: 19,
   localizacao: "Carutapera MA",
-  linguagens: ["javascript", "Java", "C#", "Python"], // Já usei bastante Java para desktop e C# eu uso com Unity
+  linguagens: ["javascript", "Java", "C#", "Python"], // Uso Java para desktop (e Android Nativo) e C# eu uso com Unity
   gameEngines: ["Unity", "Godot"], // Unity é meu preferido
   frontendFrameworks: ["ReactJS", "React Native", "bootstrap", "p5.js"],
   backendFrameworks: ["Nextjs", "Express", "Fastify"],
