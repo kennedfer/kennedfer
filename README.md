@@ -1,34 +1,7 @@
-```js
-console.log("Iae Pessoal");
-```
+Olá, sou um desenvolvedor de software apaixonado com experiência abrangente em diversas linguagens, incluindo JavaScript (e Typescript), Java, para desktop e Android nativo, e C#. Minhas habilidades se estendem por várias áreas, desde o desenvolvimento de jogos com Unity, criação de aplicações web utilizando ReactJS, Next.js e Angular e, no lado do backend, trabalho com Node.js e Spring Boot, e possuo sólido conhecimento em bancos de dados, incluindo MySQL e MongoDB.
+Estou constantemente buscando novos desafios, logo, sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outra coisa.
 
-```csharp
-let minhasInfos = {
-  idade: 19,
-  localizacao: "Carutapera MA",
-  linguagens: ["javascript", "Java", "C#", "Python"], // Uso Java para desktop (e Android Nativo) e C# eu uso com Unity
-  gameEngines: ["Unity", "Godot"], // Unity é meu preferido
-  frontendFrameworks: ["ReactJS", "React Native", "bootstrap", "p5.js"],
-  backendFrameworks: ["Nextjs", "Express", "Fastify"],
-  discord: "kennedfer#5789"
-}
-```
-![Github](https://simplified-git-stats.onrender.com?user=kennedfer)
+Email: [Meu Email](mailto:kenned14santos@gmail.com)<br>
+LinkedIn: [Meu Linkedin](https://www.linkedin.com/in/kennedfer/)
 
-```csharp
-/*
-Comecei minha jornada em programação Java com o livro 'Java: como programar' da Deitel.
-Embora tenha utilizado Java por um longo tempo, atualmente estou focado em desenvolvimento web e JavaScript.
-Durante a faculdade, tive contato com Python e o utilizei para tarefas simples por um tempo.
-No entanto, acabei migrando para JavaScript devido à facilidade que o p5.js me proporcionava,
-permitindo-me usá-lo em qualquer lugar por ser uma plataforma online.
-A partir daí, comecei a estudar Node.js e completei cursos do freeCodeCamp em frontend, backend e estrutura de dados.
-Também desenvolvi projetos para o meu portfólio, enquanto busco oportunidades de emprego e trabalhos freelancer.
-Além disso, possuo experiência em desenvolvimento Android com Java e criação de jogos.
-
-Anteriormente, usava a biblioteca 'pygame' para desenhar elementos com Python,
-mas enfrentava dificuldades com a configuração adequada.
-
-Vez ou outra uso o Unity para desenvolver pequenos projetos
-*/
-```
+Estou ansioso para contribuir para projetos inovadores e enfrentar desafios emocionantes.
