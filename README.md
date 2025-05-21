@@ -1,8 +1,23 @@
-Olá, sou um desenvolvedor de software apaixonado com experiência abrangente em diversas linguagens, incluindo JavaScript (e Typescript), Java, para desktop e Android nativo, e C#. Minhas habilidades se estendem por várias áreas, desde o desenvolvimento de jogos com **Unity**, criação de aplicações web utilizando **ReactJS e Next.js** e, no lado do backend, trabalho com **Express.js e NestJs** além de, claro, possuir sólido conhecimento em bancos de dados, incluindo Postgress e MongoDB.<br>
+## Olá, visitante!
+Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
-Estou constantemente buscando novos desafios, logo, sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outra coisa.
+Informações Públicas
+Meu nome é Kenned Ferreira (também conhecido como "kennedfer"). Atualmente meu objetivo é conseguir minha primeira vaga na área de desenvolvimento de softwares
 
-Email: [Meu Email](mailto:kenned14santos@gmail.com)<br>
-LinkedIn: [Meu Linkedin](https://www.linkedin.com/in/kennedfer/)
+Apareco as vezes no seu feed do linkedin compartilhando alguma curiosidade sobre diversos tópicos.
+Desde 2024 venho me envolvendo em projetos e iniciativas que me impulsionam e ajudam o meu crescimento.
 
-Estou ansioso para contribuir para projetos inovadores e enfrentar desafios emocionantes.
+Informações Detalhadas
+👤 Nome: Jorge Kenned Ferreira dos Santos
+🎂 Idade: 21
+📍 Localização: São Luís, MA
+💻 Stack: Spring, React.js, Next.js, Fastify, SQL, MongoDB
+📚 Aprendizado Atual: Spring Avançado e Docker
+🎓 Formação: Ciência da Computação em andamento.
+🏆 Conquistas: 2º Lugar no Hackathon Onfly+PDA, 2° Lugar Santander Bootcamp 2023 - Fullstack Java+Angular
+
+Curiosidades sobre Mim
+🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos.
+💡 Comecei a programar em 2022 e, desde então, venho me desafiando e aprendendo coisas novas.
+🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.
+🌐 Tenho experiência em diversos projetos, desde jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.
