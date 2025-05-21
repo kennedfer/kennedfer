@@ -1,20 +1,26 @@
 ## Olá, visitante!
 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
-Informações Públicas
+### Informações Públicas
 Meu nome é Kenned Ferreira (também conhecido como "kennedfer"). Atualmente meu objetivo é conseguir minha primeira vaga na área de desenvolvimento de softwares
 
-Apareco as vezes no seu feed do linkedin compartilhando alguma curiosidade sobre diversos tópicos.
+Apareco as vezes no seu feed do linkedin compartilhando alguma curiosidade sobre diversos tópicos.<br>
 Desde 2024 venho me envolvendo em projetos e iniciativas que me impulsionam e ajudam o meu crescimento.
 
-Informações Detalhadas
-👤 Nome: Jorge Kenned Ferreira dos Santos
-🎂 Idade: 21
-📍 Localização: São Luís, MA
-💻 Stack: Spring, React.js, Next.js, Fastify, SQL, MongoDB
-📚 Aprendizado Atual: Spring Avançado e Docker
-🎓 Formação: Ciência da Computação em andamento.
-🏆 Conquistas: 2º Lugar no Hackathon Onfly+PDA, 2° Lugar Santander Bootcamp 2023 - Fullstack Java+Angular
+``` javascript
+{
+  Nome: "Jorge Kenned Ferreira dos Santos",
+  Idade: 21,
+  Localização: "São Luís, MA"
+  Stack: ["Spring", "React.js", "Next.js", "Fastify", "SQL", "MongoDB"]
+  Aprendizado Atual: ["Spring Avançado", "Docker"]
+  Formação: {
+    curso: "Ciência da Computação",
+    status: "Em andamento"
+  }
+  Conquistas: ["2º Lugar no Hackathon Onfly+PDA", "2° Lugar Santander Bootcamp 2023 - Fullstack Java+Angular"]
+}
+```
 
 Curiosidades sobre Mim
 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos.
