@@ -6,7 +6,7 @@ Meu nome é Kenned Ferreira (também conhecido como "kennedfer"). Atualmente meu
 
 Apareco as vezes no seu feed do linkedin compartilhando alguma curiosidade sobre diversos tópicos.<br>
 Desde 2024 venho me envolvendo em projetos e iniciativas que me impulsionam e ajudam o meu crescimento.
-
+![Image](https://github.com/user-attachments/assets/87ab5a5b-d2e5-4eac-aac0-c0bca4c61eaf)
 ``` javascript
 {
   Nome: "Jorge Kenned Ferreira dos Santos",
