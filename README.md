@@ -27,6 +27,7 @@ See the LICENSE file for details
   <kenned14santos@gmail.com>
   discord • @kennedfer<br>
   linkedin • <a href="https://linkedin.com/in/kennedfer">/in/kennedfer</a><br>
+    
   [github](https://github.com/kennedfer) • [resumo técnico](#stack)
 </div>
 
